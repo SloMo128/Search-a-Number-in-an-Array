@@ -1,1 +1,1 @@
-# Search-a-Number-in-an-Array
+# Search a Number in an Array
